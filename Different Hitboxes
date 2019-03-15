@@ -58,7 +58,10 @@ VirusDestroyer locks onto one malware and erases it from sight, 4s cooldown
   upgrade one goes from 4s cooldown to 3s
   upgrade two is when it destroys a malware, it leaves a set of switches which when a malware goes past, loses 20hp, has 5 uses
   upgrade three switches now have 8 uses, now they lose 30hp when malware go past
-  
+Corrupter shoots with 2s cooldown, deals 50% health, leaves virus with 50% decrease in speed, hp and attackpoints
+  upgrade one 60% decrease in attackpoints
+  upgrade two cooldown goes down to 1.8s
+  upgrade three chain shots two viruses
  
  
  
